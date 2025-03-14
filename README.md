@@ -6,6 +6,8 @@ To run the docker app and save what you've done,
 
 * Buid the app with the command docker build -t mountain_peaks .
 * Run the app with the command docker run -p 8000:8000 mountain_peaks
+* OR
+* Run the app with the command docker-compose up -d
 
 The documentation is available in 2 types of formats:
 
